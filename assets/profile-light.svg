@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Vladislav</title><desc id="desc">Личные проекты, код и работа с данными</desc>
+<rect width="1200" height="260" rx="18" fill="#f3f7f9"/>
+<path d="M58 59h38M58 59v38M1142 201h-38M1142 201v-38" fill="none" stroke="#197e96" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="92" y="120" fill="#163042" font-size="57" font-weight="650" letter-spacing="-1.5">Vladislav</text><text x="95" y="160" fill="#5c7383" font-size="20">Личные проекты. Код. Работа с данными.</text><text x="95" y="208" fill="#197e96" font-family="Consolas,monospace" font-size="13" letter-spacing="1">@VladislavShvetsov</text></g>
+<g fill="none" stroke="#d4e2e9" stroke-width="1"><path d="M850 72v110m50-110v110m50-110v110m50-110v110m50-110v110M830 92h240m-240 40h240m-240 40h240"/></g>
+<path d="m850 150 50-28 50 14 50-46 50 15" fill="none" stroke="#197e96" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#f3f7f9" stroke="#197e96" stroke-width="2"><circle cx="850" cy="150" r="4"/><circle cx="900" cy="122" r="4"/><circle cx="950" cy="136" r="4"/><circle cx="1000" cy="90" r="4"/><circle cx="1050" cy="105" r="4"/></g></svg>
